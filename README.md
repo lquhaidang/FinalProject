@@ -14,7 +14,3 @@ CS204 - Advanced Web Programming - Final Project
 # EDR Diagram:
 
 ![](final_project.png)
-
-# Final Project Code:
-
-@import "FinalProject_end.zip"

@@ -1,0 +1,47 @@
+body{
+    background-image: url(../images/pq.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+nav.navbar.navbar-expand-md.navbar-dark {
+    background-color: #AC7D88;
+}
+
+footer.footer.text-white.py-5 {
+    background-color: #6e434d;
+}
+
+/*process.php*/
+.submitBtn {
+    width: 100%;
+    left: 0px;
+    border-radius: 0.25rem;
+    position: absolute;
+    height: 100%;
+    opacity: 0;
+}
+
+.mb-3.col-md-5.rounded {
+    position: relative;
+    height: 85px;
+    background-color: #eea990;
+}
+.mb-3.col-md-5.rounded:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
+
+.answer-text{
+    padding: 10px 0px;
+    font-size:30px;
+    font-weight: 550;
+    line-height: 1.2;
+}
+
+.row.container.justify-content-around {
+    padding: 0px 55px;
+}

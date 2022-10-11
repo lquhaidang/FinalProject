@@ -1,9 +1,9 @@
 -+-+-+-+-+OUR PROJECT MEMBERS-+-+-+-+-+
-1. Huỳnh Hữu Nghiệp - 
+1. Huỳnh Hữu Nghiệp - 2059030
 2. Nguyễn Thanh Thái - 2059039
 3. Phạm Hoàng Long - 2059026
-4. Jomklang Đỗ Thái Việt - 
-5. Lê Quang Hải Đăng - 
+4. Jomklang Đỗ Thái Việt - 2059018
+5. Lê Quang Hải Đăng - 2059009
 -+-+-+-+-+-CURRENT FEATURE-+-+-+-+-+-+
 1.User
 -> Can log in as well as create new account
